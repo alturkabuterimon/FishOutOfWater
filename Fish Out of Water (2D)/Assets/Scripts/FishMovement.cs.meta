@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8777a05230b506d41b7c1236d95ebf04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fishSprite: {instanceID: 0}
+  - fish: {instanceID: 0}
+  - Swim1: {instanceID: 0}
+  - Swim2: {instanceID: 0}
+  - Food: {fileID: 7172618705017048678, guid: 33d54b1a1eeb141498dbbdbb9108f6f2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
